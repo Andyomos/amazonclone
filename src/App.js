@@ -10,7 +10,7 @@ function App() {
       <div className="App">
         <Switch>
           <Route path="/checkout"><Header />
-            <h1>Let's build AMAZON Clone with React JS checkout</h1>
+            <h1>checkout</h1>
           </Route>
           <Route path="/login"><Header />
             <h4>Login</h4>
